@@ -12,3 +12,4 @@
 
 GitHub Copilot utiliza modelos de aprendizaje automático entrenados en una gran cantidad de código fuente público para hacer sus sugerencias. Esto puede ayudar a los desarrolladores a escribir código más rápido, aprender nuevas APIs y lenguajes, y reducir errores.
 
+[![Mira el video](https://img.youtube.com/vi/O_pxfeMYEkA/maxresdefault.jpg)](https://www.youtube.com/watch?v=O_pxfeMYEkA)
