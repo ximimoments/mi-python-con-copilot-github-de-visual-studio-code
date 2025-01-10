@@ -19,3 +19,6 @@ GitHub Copilot utiliza modelos de aprendizaje automático entrenados en una gran
 **Si queres podes mirar este video**
 
 https://drive.google.com/drive/folders/1yG6D5h94mIa0MwkVuQnurZmOCE89fylm?usp=drive_link
+
+![Ejemplo de imagen](![Captura](https://github.com/user-attachments/assets/639a5d77-14ec-4bb7-866d-e84a3b91cdde)
+
