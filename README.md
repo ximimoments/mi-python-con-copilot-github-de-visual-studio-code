@@ -20,5 +20,5 @@ GitHub Copilot utiliza modelos de aprendizaje automático entrenados en una gran
 
 https://drive.google.com/drive/folders/1yG6D5h94mIa0MwkVuQnurZmOCE89fylm?usp=drive_link
 
-![# ¿Como entro al archivo v2 de tu python?](![Captura](https://github.com/user-attachments/assets/639a5d77-14ec-4bb7-866d-e84a3b91cdde)
+![¿Como entro al archivo v2 de tu python?](![Captura](https://github.com/user-attachments/assets/639a5d77-14ec-4bb7-866d-e84a3b91cdde)
 
