@@ -22,3 +22,4 @@ https://drive.google.com/drive/folders/1yG6D5h94mIa0MwkVuQnurZmOCE89fylm?usp=dri
 
 # ¿Como entro al archivo v2 de tu python? ![Captura](https://github.com/user-attachments/assets/639a5d77-14ec-4bb7-866d-e84a3b91cdde)
 
+![Captura desde 2025-01-10 11-48-29](https://github.com/user-attachments/assets/1bdefe20-ce7d-4d24-84da-e4992a69a109)
