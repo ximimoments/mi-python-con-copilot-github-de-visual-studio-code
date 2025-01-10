@@ -20,6 +20,13 @@ GitHub Copilot utiliza modelos de aprendizaje automático entrenados en una gran
 
 https://drive.google.com/drive/folders/1yG6D5h94mIa0MwkVuQnurZmOCE89fylm?usp=drive_link
 
-# ¿Como entro al archivo v2 de tu python? ![Captura](https://github.com/user-attachments/assets/639a5d77-14ec-4bb7-866d-e84a3b91cdde)
+# ¿Como entro al archivo v2 de tu python hecho con github copilot? ![Captura](https://github.com/user-attachments/assets/639a5d77-14ec-4bb7-866d-e84a3b91cdde)
 
 ![Captura desde 2025-01-10 11-48-29](https://github.com/user-attachments/assets/1bdefe20-ce7d-4d24-84da-e4992a69a109)
+
+# ¿Se puede ejecutar tus python con github copilot en telefono?
+
+*Si, solamente tenes que instalar esta aplicacion con este video*
+
+https://github.com/user-attachments/assets/aeae0757-84e8-483c-add0-243fd23628e2
+
