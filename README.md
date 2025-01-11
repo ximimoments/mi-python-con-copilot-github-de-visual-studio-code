@@ -45,3 +45,14 @@ En algun futuro🙂
 # Tip: si queres apoyar este proyecto te podes unir asi lo hacemos como colaboradores
 
 ![68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5a47787759336d4f77674c5371673d3d2d313236303737303532362e313730636630643433393230656231323339333037333832393839362e676966](https://github.com/user-attachments/assets/2303857f-d078-4c6c-b7dc-6be58a9c2bf6)
+
+**Mi python de numeros magicos v1**
+
+
+
+https://github.com/user-attachments/assets/a3ef5fee-6b27-48e4-9c1b-889f89cfa30a
+
+**Mi python de numeros magicos v2**
+
+https://github.com/user-attachments/assets/b0fec7ba-c085-4bb9-9cea-0ece3d7446df
+
