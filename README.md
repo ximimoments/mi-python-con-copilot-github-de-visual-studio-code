@@ -30,3 +30,14 @@ https://drive.google.com/drive/folders/1yG6D5h94mIa0MwkVuQnurZmOCE89fylm?usp=dri
 
 https://github.com/user-attachments/assets/aeae0757-84e8-483c-add0-243fd23628e2
 
+# ¿En realidad usas una ia para hacer tus python? es muy facil💀
+
+Es que soy nuevo, y las nuevas personas aprendiendo pyton o javascript tiene que usar una ia
+
+# ¿Para cuando vas a usar Javascript?
+
+Algun dia
+
+# ¿Para cuando vas a aprender python o javascript sin ninguna ia?
+
+En algun futuro🙂
