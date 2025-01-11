@@ -1,7 +1,7 @@
-# mi python con copilot github de visual studio code
- no se progamar pero gracias a copilot github me ayudo
+# Mi python con copilot github de visual studio code
+ No se progamar pero gracias a copilot github me ayudo
 
-¿que es copilot github?
+¿Que es copilot github?
  
  GitHub Copilot es una herramienta de inteligencia artificial desarrollada por GitHub en colaboración con OpenAI. Está diseñada para ayudar a los desarrolladores a escribir código de manera más eficiente. Algunas de sus características principales incluyen:
 
@@ -12,7 +12,7 @@
 
 GitHub Copilot utiliza modelos de aprendizaje automático entrenados en una gran cantidad de código fuente público para hacer sus sugerencias. Esto puede ayudar a los desarrolladores a escribir código más rápido, aprender nuevas APIs y lenguajes, y reducir errores.
 
-# mis proyectos favoritos de python. proximamente más
+# Mis proyectos favoritos de python. proximamente más
 [![Mira el video](https://img.youtube.com/vi/O_pxfeMYEkA/maxresdefault.jpg)](https://www.youtube.com/watch?v=O_pxfeMYEkA)
 
 
