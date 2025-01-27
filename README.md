@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=900&size=24&pause=1000&color=F7046C&background=FF741600&center=true&vCenter=true&random=true&width=435&lines=%C2%A1Bienvenido+a+mi+proyecto+de+python!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=900&size=24&pause=1000&color=F7046C&background=FF741600&center=true&vCenter=true&random=true&width=435&lines=%C2%A1Bienvenido+a+mi+proyecto+de+python!)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=900&size=24&pause=1000&color=F7046C&background=FF741600&center=true&vCenter=true&random=true&width=435&lines=%C2%A1Bienvenido+a+mi+proyecto+de+python!)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=900&size=24&pause=1000&color=F7046C&background=FF741600&center=true&vCenter=true&random=true&width=435&lines=%C2%A1Bienvenido+a+mi+proyecto+de+python!)](https://git.io/typing-svg)
 
 
 # Mi python con copilot github de visual studio code
