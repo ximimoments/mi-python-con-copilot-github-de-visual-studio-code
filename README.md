@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=F7046C&background=FF741600&center=true&width=435&lines=%C2%A1Bienvenido+a+mi+proyecto+de+python!)](https://git.io/typing-svg)
+
 # Mi python con copilot github de visual studio code
  No se progamar pero gracias a copilot github me ayudo
 
